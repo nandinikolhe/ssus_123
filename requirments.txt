@@ -1,5 +1,5 @@
 streamlit==1.39.0
-pymongo
+pymongo==4.13.2
 pandas
 
 
